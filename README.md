@@ -49,6 +49,16 @@ abaixo. A aplicação será executada localmente no seu computador;
 não é necessário ter Git ou uma conta no GitHub para baixar uma
 Release pública.
 
+## Como executar a aplicação
+
+1. Baixe o arquivo `Aplicacao_VGG19.zip` na seção Releases e extraia seu conteúdo.
+2. Abra um terminal na pasta extraída `Aplicacao_VGG19`.
+3. Entre na pasta que contém a aplicação:
+
+   ```powershell
+   cd ".\Aplicação"
+   ```
+
 ## Instalação
 
 Abra a pasta da aplicação no VS Code e selecione **Terminal → Novo Terminal**.
