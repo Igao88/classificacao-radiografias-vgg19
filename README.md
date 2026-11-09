@@ -33,6 +33,22 @@ CAMINHO_MODELO = RAIZ / "melhor_vgg19_finetuning.keras"
 
 Não é necessário utilizar uma GPU para executar a classificação.
 
+## Download da aplicação completa
+
+Acesse a seção **Releases** deste repositório e, em **Assets**,
+baixe o arquivo **Aplicacao_VGG19.zip**.
+
+Esse pacote contém o código da aplicação, o modelo treinado,
+o arquivo de dependências, o README e as imagens de exemplo.
+
+**Não utilize “Source code (zip)” ou “Source code (tar.gz)”,
+pois esses arquivos não incluem o modelo treinado.**
+
+Após o download, extraia o ZIP e siga as instruções de instalação
+abaixo. A aplicação será executada localmente no seu computador;
+não é necessário ter Git ou uma conta no GitHub para baixar uma
+Release pública.
+
 ## Instalação
 
 Abra a pasta da aplicação no VS Code e selecione **Terminal → Novo Terminal**.
